@@ -17,9 +17,9 @@ This Streamlit application provides an AI-driven system for analyzing medical im
 
 ## 🚀 App Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medical-image-analysis-ai.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medical-imaging-agent.streamlit.app)
 
-[https://medical-image-analysis-ai.streamlit.app](https://medical-image-analysis-ai.streamlit.app)
+[Medical Image Analysis App](https://medical-imaging-agent.streamlit.app)
 
 ## ⚙️ Dependencies
 
