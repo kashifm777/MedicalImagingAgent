@@ -7,3 +7,4 @@ google-generativeai
 google-genai
 duckduckgo-search
 mcp
+ddgs
