@@ -17,7 +17,7 @@ if not google_api_key:
     raise ValueError("⚠️ Please set your Google API Key in GOOGLE_API_KEY")
 
 medical_agent = Agent(
-    model=Gemini(id="gemini-2.0-flash-exp"),
+    model=Gemini(id="gemini-2.5-flash"),
     tools=[DuckDuckGoTools()],
     markdown=True
 )
